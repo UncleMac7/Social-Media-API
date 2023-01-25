@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "build": "^0.1.4",
+    "grunt": "^1.5.3",
     "nodemon": "^2.0.20"
   }
 }
